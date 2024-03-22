@@ -29,7 +29,7 @@ Install required Python libraries:
 
 :> pip install SpeechRecognition pyttsx3 nltk wikipedia-api
 
-##**Run the program:**
+## **Run the program:**
 
 python VoiceAssistant.py
 
