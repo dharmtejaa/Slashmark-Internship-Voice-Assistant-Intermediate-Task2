@@ -1,7 +1,5 @@
 # **Voice Assistant**
 
-## **Description:**
-
 This Python program implements a chatbot with speech recognition capabilities. It interacts with users through voice input and output, providing responses based on predefined patterns and performing actions like fetching information from Wikipedia.
 
 ## **Features:**
